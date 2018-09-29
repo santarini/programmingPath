@@ -40,7 +40,7 @@
 ### Java
 * Java: A Beginner's Guide - Herbert Schildt
 
-### Fundamentals
+### Programming Foundations
 * [Programming Foundations: Fundamentals](https://www.lynda.com/JavaScript-tutorials/Foundations-of-Programming-Fundamentals/83603-2.html)
 * [Programming Foundations: Object Oriented Design](https://www.lynda.com/Java-tutorials/Foundations-Programming-Object-Oriented-Design/96949-2.html)
 * [Programming Foundations: Code Efficiency](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Foundations-Programming-Code-Efficiency/122461-2.html)
