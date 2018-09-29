@@ -28,8 +28,8 @@
 ### Python
 * [https://pythonprogramming.net/](https://pythonprogramming.net/)
 * [Automate the Boring Stuff with Python: Practical Programming for Total Beginners - Al Sweigart](https://automatetheboringstuff.com/)
-* [Problem Solving with Algorithms and Data Structures using Python - Brad Miller and David Ranum, Luther College(https://interactivepython.org/runestone/static/pythonds/index.html)
-* [Django: Web Development with Python - Aidas Bendoraitis, Arun Ravindran, and Samuel Dauzon]
+* [Problem Solving with Algorithms and Data Structures using Python - Brad Miller and David Ranum, Luther College](https://interactivepython.org/runestone/static/pythonds/index.html)
+* Django: Web Development with Python - Aidas Bendoraitis, Arun Ravindran, and Samuel Dauzon
 
 ### C
 * The C Programming Language - Brian Kernighan and Dennis Ritchie
