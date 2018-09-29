@@ -54,8 +54,11 @@
 * [Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
 
 
+### Projects/Challenges
+* [r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/)
+* [https://www.codewars.com](https://www.codewars.com/)
+
+
 ### Other
 * [Installing Apache, MySQL, and PHP](https://www.lynda.com/PHP-tutorials/Installing-Apache-MySQL-PHP/537759-2.html)
-
-
-http://inventwithpython.com/blog/2015/09/01/further-reading-intermediate-python-resources/
+* http://inventwithpython.com/blog/2015/09/01/further-reading-intermediate-python-resources/
