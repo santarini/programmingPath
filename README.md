@@ -11,7 +11,8 @@
 
 ### PHP
 * [PHP Essential Training](https://www.lynda.com/PHP-tutorials/PHP-Essential-Training/592510-2.html)
-* 
+
+### SQL
 
 ### JavaScript
 * [JavaScript Essential Training](https://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/574716-2.html)
