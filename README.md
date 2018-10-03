@@ -20,13 +20,13 @@
 * [JavaScript Essential Training](https://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/574716-2.html)
 * [Eloquent JavaScript - Marijn Haverbeke](https://eloquentjavascript.net/)
 
-### ECMAScript
+#### ECMAScript
 * [Learning ECMAScript](https://www.lynda.com/JavaScript-tutorials/Learning-ECMAScript-6/424003-2.html)
 
-### JQuery
+#### JQuery
 * JavaScript & JQuery: The Missing Manual Book - David McFarland
 
-### Express.js
+#### Express.js
 * [Express Tutorial: The Local Library website](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website)
 
 ## Visual Basic
@@ -40,8 +40,9 @@
 * Test-Driven Development with Python: Obey the Testing Goat: Using Django, Selenium, and JavaScript Book - Harry J. Percival
 * Fluent Python: Clear, Concise, and Effective Programming Book - Luciano Ramalho
 
-### Django
+#### Django
 * Django: Web Development with Python - Aidas Bendoraitis, Arun Ravindran, and Samuel Dauzon
+
 
 ## C
 * The C Programming Language - Brian Kernighan and Dennis Ritchie
