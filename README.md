@@ -1,6 +1,6 @@
 # ProgrammingPath
 
-This is a list of all the programming resources (videos, books, websites) I've used organized by subject matter.
+This is a list of all the programming resources (videos, books, websites) I've used through my programming journey organized by subject matter.
 
 ## HTML
 * [HTML Essential Training](https://www.lynda.com/HTML-tutorials/HTML-Essential-Training/170427-2.html)
