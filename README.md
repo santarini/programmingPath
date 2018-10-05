@@ -39,6 +39,8 @@ This is a list of all the programming resources (videos, books, websites) I've u
 * [https://pythonprogramming.net/](https://pythonprogramming.net/)
 * [Automate the Boring Stuff with Python: Practical Programming for Total Beginners - Al Sweigart](https://automatetheboringstuff.com/)
 * [Problem Solving with Algorithms and Data Structures using Python - Brad Miller and David Ranum, Luther College](https://interactivepython.org/runestone/static/pythonds/index.html)
+* Learn Python the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code - Zed Shaw
+* [Dive into Python - Mark Pilgrim](http://www.diveintopython3.net/)
 * Test-Driven Development with Python: Obey the Testing Goat: Using Django, Selenium, and JavaScript Book - Harry J. Percival
 * Fluent Python: Clear, Concise, and Effective Programming Book - Luciano Ramalho
 
