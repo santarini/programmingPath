@@ -77,5 +77,6 @@ This is a list of all the programming resources (videos, books, websites) I've u
 
 
 ## Other
+* [Git Essential Training](https://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html)
 * [Installing Apache, MySQL, and PHP](https://www.lynda.com/PHP-tutorials/Installing-Apache-MySQL-PHP/537759-2.html)
 * http://inventwithpython.com/blog/2015/09/01/further-reading-intermediate-python-resources/
