@@ -64,6 +64,7 @@ This is a list of all the programming resources (videos, books, websites) I've u
 * [Programming Foundations: Data Structures](https://www.lynda.com/Software-Development-tutorials/Programming-Foundations-Data-Structures/149042-2.html)
 * [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python)
 * [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+* Mastering Regular Expressions - Jeffrey Friedl
 
 
 ## Machine Learning
