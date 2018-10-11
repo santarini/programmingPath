@@ -45,6 +45,9 @@ This is a list of all the programming resources (videos, books, websites) I've u
 * Fluent Python: Clear, Concise, and Effective Programming Book - Luciano Ramalho
 
 #### Django
+* Django for Beginners: Build websites with Python and Django - William S. Vincent
+* Two Scoops of Django 1.11: Best Practices for the Django Web Framework - Audrey Roy and Daniel Roy Greenfeld
+* REST APIs with Django: Build powerful web APIs with Python and Django - William S. Vincent
 * Django: Web Development with Python - Aidas Bendoraitis, Arun Ravindran, and Samuel Dauzon
 
 
