@@ -14,6 +14,7 @@ This is a list of all the programming resources (videos, books, websites) I've u
 * [Bootstrap Essential Training](https://www.lynda.com/Bootstrap-tutorials/Bootstrap-4-Essential-Training/372545-2.html)
 
 ## PHP
+* [Learning PHP](https://www.lynda.com/PHP-tutorials/Introducing-PHP/418256-2.html)
 * [PHP Essential Training](https://www.lynda.com/PHP-tutorials/PHP-Essential-Training/592510-2.html)
 
 ## SQL
@@ -39,7 +40,7 @@ This is a list of all the programming resources (videos, books, websites) I've u
 * [https://pythonprogramming.net/](https://pythonprogramming.net/)
 * [Automate the Boring Stuff with Python: Practical Programming for Total Beginners - Al Sweigart](https://automatetheboringstuff.com/)
 * [Problem Solving with Algorithms and Data Structures using Python - Brad Miller and David Ranum, Luther College](https://interactivepython.org/runestone/static/pythonds/index.html)
-* ~Learn Python the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code - Zed Shaw~
+* ~Learn Python the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code - Zed Shaw~ (Zed Shaw is a douche, I stopped reading after a few chapters)
 * [Dive into Python - Mark Pilgrim](http://www.diveintopython3.net/)
 * Test-Driven Development with Python: Obey the Testing Goat: Using Django, Selenium, and JavaScript Book - Harry J. Percival
 * Fluent Python: Clear, Concise, and Effective Programming Book - Luciano Ramalho
