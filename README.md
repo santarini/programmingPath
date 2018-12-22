@@ -82,6 +82,11 @@ This is a list of all the programming resources (videos, books, websites) I've u
 * [r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/)
 * [https://www.codewars.com](https://www.codewars.com/)
 
+## Servers
+* CCENT/CCNA ICND1 100-105 Official Cert Guide - Wendell Odom
+
+## Virtualization
+* vSphere 6 Foundations Exam Official Cert Guide - Bill Ferguson
 
 ## Other
 * [Learning Git and GitHub](https://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html)
