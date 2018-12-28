@@ -16,6 +16,7 @@ This is a list of all the programming resources (videos, books, websites) I've u
 ## PHP
 * [Learning PHP](https://www.lynda.com/PHP-tutorials/Introducing-PHP/418256-2.html)
 * [PHP Essential Training](https://www.lynda.com/PHP-tutorials/PHP-Essential-Training/592510-2.html)
+* [PHP with MySQL Essential Training: 1 The Basics](https://www.lynda.com/PHP-tutorials/PHP-MySQL-Essential-Training-1-Basics/587674-2.html)
 
 ## SQL
 
@@ -87,6 +88,7 @@ This is a list of all the programming resources (videos, books, websites) I've u
 
 ## Virtualization
 * vSphere 6 Foundations Exam Official Cert Guide - Bill Ferguson
+* [VMware vSphere 6.5 Essential Training Part 1](https://www.lynda.com/PHP-tutorials/PHP-MySQL-Essential-Training-1-Basics/587674-2.html)
 
 ## Other
 * [Learning Git and GitHub](https://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html)
