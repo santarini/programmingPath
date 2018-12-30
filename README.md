@@ -83,10 +83,13 @@ This is a list of all the programming resources (videos, books, websites) I've u
 * [r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/)
 * [https://www.codewars.com](https://www.codewars.com/)
 
-## Servers
+## Network Administration
+* [Amazon Web Services Essential Training](https://www.lynda.com/Amazon-Web-Services-tutorials/Amazon-Web-Services-Essential-Training/569195-2.html)
+
+## Cisco Routing & Switching
 * CCENT/CCNA ICND1 100-105 Official Cert Guide - Wendell Odom
 
-## Virtualization
+## VMware vSphere
 * vSphere 6 Foundations Exam Official Cert Guide - Bill Ferguson
 * [VMware vSphere 6.5 Essential Training Part 1](https://www.lynda.com/PHP-tutorials/PHP-MySQL-Essential-Training-1-Basics/587674-2.html)
 
