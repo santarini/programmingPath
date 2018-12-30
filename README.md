@@ -36,6 +36,9 @@ This is a list of all the programming resources (videos, books, websites) I've u
 #### JQuery
 * JavaScript & JQuery: The Missing Manual Book - David McFarland
 
+#### Node.js
+* [Node.js Essential Training](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website)
+
 ## Visual Basic
 * [WiseOwlTutorials](https://www.youtube.com/user/WiseOwlTutorials)
 * Beginning Visual Basic 2015 - Bryan Newsome
@@ -64,6 +67,7 @@ This is a list of all the programming resources (videos, books, websites) I've u
 
 ## Java
 * Java: A Beginner's Guide - Herbert Schildt
+* [Java 8 Essential Training](https://www.lynda.com/Java-tutorials/Java-8-Essential-Training-2015/377484-2.html)
 
 ## Programming Foundations
 * [Programming Foundations: Fundamentals](https://www.lynda.com/JavaScript-tutorials/Foundations-of-Programming-Fundamentals/83603-2.html)
@@ -90,6 +94,7 @@ This is a list of all the programming resources (videos, books, websites) I've u
 * [Amazon Web Services Essential Training](https://www.lynda.com/Amazon-Web-Services-tutorials/Amazon-Web-Services-Essential-Training/569195-2.html)
 
 ## Cisco Routing & Switching
+* [Cert Prep: Cisco Certified Entry Networking Technician (100-105)](https://www.lynda.com/Network-Administration-tutorials/Cert-Prep-Cisco-Certified-Entry-Networking-Technician-100-105/496951-2.html)
 * CCENT/CCNA ICND1 100-105 Official Cert Guide - Wendell Odom
 
 ## VMware vSphere
