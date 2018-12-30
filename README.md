@@ -25,7 +25,7 @@ This is a list of all the programming resources (videos, books, websites) I've u
 * [Eloquent JavaScript - Marijn Haverbeke](https://eloquentjavascript.net/)
 
 #### Angular.js
-[Angular Essential Training](https://www.lynda.com/Angular-tutorials/Angular-Essential-Training/540347-2.html)
+* [Angular Essential Training](https://www.lynda.com/Angular-tutorials/Angular-Essential-Training/540347-2.html)
 
 #### ECMAScript
 * [Learning ECMAScript](https://www.lynda.com/JavaScript-tutorials/Learning-ECMAScript-6/424003-2.html)
