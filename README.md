@@ -24,14 +24,17 @@ This is a list of all the programming resources (videos, books, websites) I've u
 * [JavaScript Essential Training](https://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/574716-2.html)
 * [Eloquent JavaScript - Marijn Haverbeke](https://eloquentjavascript.net/)
 
+#### Angular.js
+[Angular Essential Training](https://www.lynda.com/Angular-tutorials/Angular-Essential-Training/540347-2.html)
+
 #### ECMAScript
 * [Learning ECMAScript](https://www.lynda.com/JavaScript-tutorials/Learning-ECMAScript-6/424003-2.html)
 
-#### JQuery
-* JavaScript & JQuery: The Missing Manual Book - David McFarland
-
 #### Express.js
 * [Express Tutorial: The Local Library website](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website)
+
+#### JQuery
+* JavaScript & JQuery: The Missing Manual Book - David McFarland
 
 ## Visual Basic
 * [WiseOwlTutorials](https://www.youtube.com/user/WiseOwlTutorials)
