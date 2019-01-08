@@ -78,6 +78,11 @@ This is a list of all the programming resources (videos, books, websites) I've u
 * [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 * Mastering Regular Expressions - Jeffrey Friedl
 
+## Databases
+
+#### MySQL
+#### PostgreSQL
+#### SQLite
 
 ## Machine Learning
 * [CourseEra: Machine Learning](https://www.coursera.org/learn/machine-learning/)
