@@ -39,6 +39,8 @@ This is a list of all the programming resources (videos, books, websites) I've u
 #### Node.js
 * [Node.js Essential Training](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Tutorial_local_library_website)
 
+#### Ajax
+
 ## Visual Basic
 * [WiseOwlTutorials](https://www.youtube.com/user/WiseOwlTutorials)
 * Beginning Visual Basic 2015 - Bryan Newsome
