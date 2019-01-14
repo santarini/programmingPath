@@ -90,10 +90,12 @@ This is a list of all the programming resources (videos, books, websites) I've u
 * [The Elements of Statistical Learning Book - Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie](https://web.stanford.edu/~hastie/ElemStatLearn/)
 * [Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
 
-
 ## Projects/Challenges
 * [r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/)
 * [https://www.codewars.com](https://www.codewars.com/)
+
+## Financial Engineering
+* [Statistics and Data Analysis for Financial Engineering](https://link.springer.com/book/10.1007/978-1-4939-2614-5)
 
 ## Network Administration
 * [Amazon Web Services Essential Training](https://www.lynda.com/Amazon-Web-Services-tutorials/Amazon-Web-Services-Essential-Training/569195-2.html)
