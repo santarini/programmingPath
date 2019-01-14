@@ -74,8 +74,8 @@ This is a list of all the programming resources (videos, books, websites) I've u
 * [A Beginner's Guide to R](https://www.springer.com/us/book/9780387938363)
 
 
-## LaTex
-* [The Not so Short Introduction to LaTeX](https://tobi.oetiker.ch/lshort/lshort.pdf)
+## LaTeX
+* [The Not So Short Introduction to LaTeX - Tobias Oetiker](https://tobi.oetiker.ch/lshort/lshort.pdf)
 
 ## Programming Foundations
 * [Programming Foundations: Fundamentals](https://www.lynda.com/JavaScript-tutorials/Foundations-of-Programming-Fundamentals/83603-2.html)
