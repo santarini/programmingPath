@@ -96,6 +96,7 @@ This is a list of all the programming resources (videos, books, websites) I've u
 
 ## Financial Engineering
 * [Statistics and Data Analysis for Financial Engineering](https://link.springer.com/book/10.1007/978-1-4939-2614-5)
+* A Primer for the Mathematics of Financial Engineering - Dan Stefanica
 
 ## Network Administration
 * [Amazon Web Services Essential Training](https://www.lynda.com/Amazon-Web-Services-tutorials/Amazon-Web-Services-Essential-Training/569195-2.html)
