@@ -69,6 +69,11 @@ This is a list of all the programming resources (videos, books, websites) I've u
 * Java: A Beginner's Guide - Herbert Schildt
 * [Java 8 Essential Training](https://www.lynda.com/Java-tutorials/Java-8-Essential-Training-2015/377484-2.html)
 
+## R
+* http://www.cookbook-r.com/
+* [A Beginner's Guide to R](https://www.springer.com/us/book/9780387938363)
+* Introduction to Computational Finance and Financial Econometrics with R - Eric Zivot
+
 ## Programming Foundations
 * [Programming Foundations: Fundamentals](https://www.lynda.com/JavaScript-tutorials/Foundations-of-Programming-Fundamentals/83603-2.html)
 * [Programming Foundations: Object Oriented Design](https://www.lynda.com/Java-tutorials/Foundations-Programming-Object-Oriented-Design/96949-2.html)
