@@ -72,7 +72,6 @@ This is a list of all the programming resources (videos, books, websites) I've u
 ## R
 * http://www.cookbook-r.com/
 * [A Beginner's Guide to R](https://www.springer.com/us/book/9780387938363)
-* Introduction to Computational Finance and Financial Econometrics with R - Eric Zivot
 
 ## Programming Foundations
 * [Programming Foundations: Fundamentals](https://www.lynda.com/JavaScript-tutorials/Foundations-of-Programming-Fundamentals/83603-2.html)
@@ -102,6 +101,7 @@ This is a list of all the programming resources (videos, books, websites) I've u
 ## Financial Engineering
 * [Statistics and Data Analysis for Financial Engineering](https://link.springer.com/book/10.1007/978-1-4939-2614-5)
 * A Primer for the Mathematics of Financial Engineering - Dan Stefanica
+* Introduction to Computational Finance and Financial Econometrics with R - Eric Zivot
 
 ## Network Administration
 * [Amazon Web Services Essential Training](https://www.lynda.com/Amazon-Web-Services-tutorials/Amazon-Web-Services-Essential-Training/569195-2.html)
