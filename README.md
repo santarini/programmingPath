@@ -111,10 +111,20 @@ This is a list of all the programming resources (videos, books, websites) I've u
 
 ## Network Administration
 * [Amazon Web Services Essential Training](https://www.lynda.com/Amazon-Web-Services-tutorials/Amazon-Web-Services-Essential-Training/569195-2.html)
+* Squid Proxy Server 3.1: Beginner's Guide - Kulbir Saini
+* Exam Ref 70-740 Installation, Storage and Compute with Windows Server 2016 - Craig Zacker
+* Active Directory, 5th Edition - Brian Desmond
+* Network Warrior, 2nd Edition - Gary A. Donahue
 
 ## Cisco Routing & Switching
 * [Cert Prep: Cisco Certified Entry Networking Technician (100-105)](https://www.lynda.com/Network-Administration-tutorials/Cert-Prep-Cisco-Certified-Entry-Networking-Technician-100-105/496951-2.html)
 * CCENT/CCNA ICND1 100-105 Official Cert Guide - Wendell Odom
+* CCNA Routing and Switching ICND2 200-105 Official Cert Guide - Wendell Odom
+* CCNA Routing and Switching Complete Study Guide - Todd Lammle
+* 31 Days Before Your CCNA Routing & Switching - Allan Johnson
+* CCNA Routing and Switching Portable Command Guide - Scott D. Empson
+* CCNA Routing and Switching Practice Tests: Exam 100-105, Exam 200-105, and Exam 200-125 - Jon Buhagiar
+
 
 ## VMware vSphere
 * vSphere 6 Foundations Exam Official Cert Guide - Bill Ferguson
